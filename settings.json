@@ -2,7 +2,7 @@
   "name": "JET",
   "bot-account": {
     "username": "JET",
-    "password": "jet123_",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },

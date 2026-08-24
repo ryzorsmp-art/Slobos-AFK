@@ -1,14 +1,14 @@
 {
   "name": "JET",
   "bot-account": {
-    "username": "JET",
+    "username": "JET_AFK",
     "password": "chalol78",
     "type": "offline"
   },
   "server": {
     "ip": "ryzorls.orc.host",
     "port": 25565,
-    "version": "",
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
